@@ -18,7 +18,7 @@ body{
     margin-top: 20px;
     margin-bottom: 30px;
     border-radius: 15px;
-    font-size: 20px;
+    font-size: 15px;
     line-height: 2em;
 }
 
@@ -30,7 +30,7 @@ body{
 
 #main-header h1{
     padding-bottom: 20px;
-    font-size: 50px;
+    font-size: 35px;
 }
 
 #navbar ul{
@@ -55,7 +55,7 @@ body{
     color: #fff;
     text-decoration: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: bold;
     padding-right: 30px;
 }
@@ -65,7 +65,7 @@ body{
     color: #fff;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
+    font-size: 10px;
     padding-top: 20px;
     padding-bottom: 20px;
 }
@@ -76,6 +76,6 @@ body{
 
 .navtitle{
     color: #176B87;
-    font-size: 35px;
+    font-size: 25px;
     border-bottom: #FFD700 solid;
 }
